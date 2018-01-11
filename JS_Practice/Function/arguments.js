@@ -27,7 +27,8 @@ function sum(...rest){
 }
 */
 
-//Decoration create two functions , one old, one new, use new function call() old function. 
+//Decoration, call() apply().
+//create two functions , one old, one new, use new function call() old function. 
 
 var count = 1;
 var oldCalculation = function (){
